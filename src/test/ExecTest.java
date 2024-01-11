@@ -7,7 +7,6 @@ import org.junit.Test;
 import com.codeborne.selenide.Selenide;
 
 public class ExecTest {
-
 	@Test
 	public void executeTest() {
 		// test.jspにアクセス
